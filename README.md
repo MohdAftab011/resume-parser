@@ -6,6 +6,7 @@
 ![Next.js Version](https://img.shields.io/badge/next.js-14.2-blue)
 ![Python Version](https://img.shields.io/badge/python-3.11-blue)
 
+
 ## 🌟 Features
 
 ### **Recruiter Portal** 👔
@@ -39,6 +40,7 @@
 - `Firebase Functions` (Serverless Backend)
 - `PyPDF` (PDF Processing)
 - `Redis` (Caching)
+deployment backend: https://resume-checker-3fh2.onrender.com
 
 **AI/ML:**
 - Google Gemini NLP Models
@@ -58,7 +60,7 @@
 1. **Clone Repositories**
 ```bash
 # Backend (Flask)
-git clone https://github.com/yourusername/career-catalyst-backend.git
+git clone https://github.com/mohdaftab011/resume-checker.git
 
 # Frontend (Next.js)
 git clone https://github.com/lytcode404/fontend.git
